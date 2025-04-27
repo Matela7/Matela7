@@ -1,6 +1,5 @@
 # Hi there, I'm Michał Matela! 👋
 
-Welcome to my GitHub profile — where ideas turn into reality! 🚀
 Script Developer - Working Student at Nokia 🚀
 
 ## 💻 About Me
